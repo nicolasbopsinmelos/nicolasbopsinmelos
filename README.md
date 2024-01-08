@@ -28,6 +28,7 @@
 
 #### Secondary Stack:
 ![EJS](https://img.shields.io/badge/EJS-FF4B4B?style=for-the-badge&logo=ejs&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-FF6C37?style=for-the-badge&logo=C#&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
