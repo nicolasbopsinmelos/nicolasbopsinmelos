@@ -1,6 +1,9 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/nicolazs999/nicolazs999/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
 
+<div align="center">
+<img align="center"  src="https://github.com/nicolazs999/nicolazs999/assets/58757667/ee36438d-f4f5-4e08-b84b-f9384d7c3c0b" />
+&nbsp;&nbsp;&nbsp;
+</div>
+<br>
 <p align="center">I ❤️ solve great challenges using tech. <br><br> 🚀 I'm a <strong>current computer science student</strong>, constantly seeking opportunities to push my boundaries and delve into the ever-evolving world of technology.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
@@ -10,6 +13,7 @@
  
  &nbsp;
  &nbsp;
+
 
 
 
